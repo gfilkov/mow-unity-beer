@@ -1,5 +1,5 @@
 
 {
-  "rasterApiBaseUrl": "https://mowtestweb.azurewebsites.net",
+  "rasterApiBaseUrl": "https://mowapi-hvb7htbzgfeubfh0.canadacentral-01.azurewebsites.net",
   "magicWords": [ "made by|MOW", "vancouver", "more|beer!", "chambar", "cactus|club", "legends|pub", "craft|beer", "steamworks", "your ad|here" ]
 }
